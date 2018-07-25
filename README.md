@@ -1,4 +1,4 @@
-# Code Along: Custom Error Handling
+cd # Code Along: Custom Error Handling
 
 ## Objectives
 1. Create and raise custom error messages in Ruby. 
