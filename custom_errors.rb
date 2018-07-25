@@ -13,6 +13,9 @@ class Person
     person.partner = self
     end
   end
+  
+  class PartnerError < NoMethodError
+  end
 
 end
 
